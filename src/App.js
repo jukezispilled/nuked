@@ -35,7 +35,7 @@ function App() {
         <div className='text-6xl md:text-[200px] font-custom leading-none tracking-normal text-orange-700'>
           NUKED
         </div>
-        <p className='text-sm md:text-xl mt-[-10px] md:mt-[-60px]'><span className='font-custom'>CA</span>: <span className='font-custom'>updating</span>...</p>
+        <p className='text-sm md:text-xl mt-[-10px] md:mt-[-60px]'><span className='font-custom'>CA</span>: <span className='font-custom'>Cu5JokvBjXHur3ArcqfL4FSwzSVCqdERSSrawFHnpump</span></p>
       </div>
       <button 
         onClick={toggleMute}
